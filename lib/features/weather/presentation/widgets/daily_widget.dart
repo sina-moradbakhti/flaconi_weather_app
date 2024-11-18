@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:weather_app_flaconi/core/utils/extensions.dart';
-import 'package:weather_app_flaconi/features/weather/data/models/weather_model.dart';
+import 'package:weather_app/core/utils/extensions.dart';
+import 'package:weather_app/features/weather/data/models/weather_model.dart';
 
 class DailyWidget extends StatelessWidget {
   final WeatherModel data;

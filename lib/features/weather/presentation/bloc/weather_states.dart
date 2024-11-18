@@ -1,5 +1,5 @@
 import 'package:equatable/equatable.dart';
-import 'package:weather_app_flaconi/features/weather/data/models/weather_model.dart';
+import 'package:weather_app/features/weather/data/models/weather_model.dart';
 
 abstract class WeatherState extends Equatable {}
 

@@ -2,15 +2,15 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:bloc_test/bloc_test.dart';
 import 'package:mocktail/mocktail.dart';
 import 'package:dartz/dartz.dart';
-import 'package:weather_app_flaconi/core/models/remote_data_failure_model.dart';
-import 'package:weather_app_flaconi/core/utils/enums.dart';
-import 'package:weather_app_flaconi/core/utils/extensions.dart';
-import 'package:weather_app_flaconi/features/weather/data/datasources/weather_local_datasource.dart';
-import 'package:weather_app_flaconi/features/weather/data/models/weather_model.dart';
-import 'package:weather_app_flaconi/features/weather/domain/repositories/weather_repo.dart';
-import 'package:weather_app_flaconi/features/weather/presentation/bloc/weather_bloc.dart';
-import 'package:weather_app_flaconi/features/weather/presentation/bloc/weather_events.dart';
-import 'package:weather_app_flaconi/features/weather/presentation/bloc/weather_states.dart';
+import 'package:weather_app/core/models/remote_data_failure_model.dart';
+import 'package:weather_app/core/utils/enums.dart';
+import 'package:weather_app/core/utils/extensions.dart';
+import 'package:weather_app/features/weather/data/datasources/weather_local_datasource.dart';
+import 'package:weather_app/features/weather/data/models/weather_model.dart';
+import 'package:weather_app/features/weather/domain/repositories/weather_repo.dart';
+import 'package:weather_app/features/weather/presentation/bloc/weather_bloc.dart';
+import 'package:weather_app/features/weather/presentation/bloc/weather_events.dart';
+import 'package:weather_app/features/weather/presentation/bloc/weather_states.dart';
 
 import 'fake_weather_data.dart';
 

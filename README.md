@@ -1,4 +1,4 @@
-# weather_app_flaconi
+# weather_app
 
 A new Flutter project.
 

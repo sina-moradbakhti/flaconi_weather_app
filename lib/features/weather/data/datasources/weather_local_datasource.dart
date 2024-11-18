@@ -1,4 +1,4 @@
-import 'package:weather_app_flaconi/core/utils/enums.dart';
+import 'package:weather_app/core/utils/enums.dart';
 
 class WeatherLocalDatasource {
   static final WeatherLocalDatasource _singleton =

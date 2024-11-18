@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:weather_app_flaconi/core/utils/extensions.dart';
-import 'package:weather_app_flaconi/features/weather/data/datasources/weather_local_datasource.dart';
-import 'package:weather_app_flaconi/features/weather/data/models/weather_model.dart';
-import 'package:weather_app_flaconi/features/weather/presentation/widgets/daily_widget.dart';
+import 'package:weather_app/core/utils/extensions.dart';
+import 'package:weather_app/features/weather/data/datasources/weather_local_datasource.dart';
+import 'package:weather_app/features/weather/data/models/weather_model.dart';
+import 'package:weather_app/features/weather/presentation/widgets/daily_widget.dart';
 
 class WeatherInfoWidget extends StatelessWidget {
   final int selectedWeekDay;

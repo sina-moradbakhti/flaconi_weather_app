@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:weather_app_flaconi/core/utils/enums.dart';
-import 'package:weather_app_flaconi/core/utils/extensions.dart';
-import 'package:weather_app_flaconi/features/weather/data/datasources/weather_local_datasource.dart';
+import 'package:weather_app/core/utils/enums.dart';
+import 'package:weather_app/core/utils/extensions.dart';
+import 'package:weather_app/features/weather/data/datasources/weather_local_datasource.dart';
 
 import '../bloc/weather_bloc.dart';
 import '../bloc/weather_events.dart';

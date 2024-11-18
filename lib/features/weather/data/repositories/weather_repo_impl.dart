@@ -1,14 +1,14 @@
 import 'package:dartz/dartz.dart';
 import 'package:flutter/foundation.dart';
-import 'package:weather_app_flaconi/core/models/custom_exception_model.dart';
+import 'package:weather_app/core/models/custom_exception_model.dart';
 
-import 'package:weather_app_flaconi/core/models/remote_data_failure_model.dart';
+import 'package:weather_app/core/models/remote_data_failure_model.dart';
 
-import 'package:weather_app_flaconi/core/utils/enums.dart';
-import 'package:weather_app_flaconi/core/utils/extensions.dart';
-import 'package:weather_app_flaconi/features/weather/data/datasources/weather_remote_datasource.dart';
+import 'package:weather_app/core/utils/enums.dart';
+import 'package:weather_app/core/utils/extensions.dart';
+import 'package:weather_app/features/weather/data/datasources/weather_remote_datasource.dart';
 
-import 'package:weather_app_flaconi/features/weather/data/models/weather_model.dart';
+import 'package:weather_app/features/weather/data/models/weather_model.dart';
 
 import '../../../../core/constants/app_constant.dart';
 import '../../domain/repositories/weather_repo.dart';

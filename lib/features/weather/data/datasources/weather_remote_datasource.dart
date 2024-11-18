@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:weather_app_flaconi/core/datasources/main_remote_datasource.dart';
+import 'package:weather_app/core/datasources/main_remote_datasource.dart';
 
 import '../../../../core/models/custom_exception_model.dart';
 

@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:weather_app_flaconi/core/constants/app_constant.dart';
+import 'package:weather_app/core/constants/app_constant.dart';
 
 class MainRemoteDatasource {
   final Dio _remoteService = Dio();

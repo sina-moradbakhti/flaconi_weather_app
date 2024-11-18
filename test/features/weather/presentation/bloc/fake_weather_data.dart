@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:weather_app_flaconi/features/weather/data/models/weather_model.dart';
+import 'package:weather_app/features/weather/data/models/weather_model.dart';
 
 class FakeWeatherData {
   static List<WeatherModel> weatherList = [

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:weather_app_flaconi/core/utils/enums.dart';
-import 'package:weather_app_flaconi/core/utils/extensions.dart';
+import 'package:weather_app/core/utils/enums.dart';
+import 'package:weather_app/core/utils/extensions.dart';
 
 class WeatherAppbarWidget extends StatelessWidget
     implements PreferredSizeWidget {

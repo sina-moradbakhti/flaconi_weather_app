@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:weather_app_flaconi/core/utils/extensions.dart';
+import 'package:weather_app/core/utils/extensions.dart';
 
 import '../../../../core/utils/enums.dart';
 import '../../data/datasources/weather_local_datasource.dart';
